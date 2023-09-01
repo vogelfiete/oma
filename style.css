@@ -8,12 +8,16 @@
   background: #fff;
   padding: 0 12px 6px 12px;
   border: 1px solid #000;
+  font-family: 'Birthday', sans-serif;
 }
 .schrift {
   width: 50%;
   margin: auto;
   text-align: center;
   padding: 15%;
+  font-family: 'Birthday', sans-serif;
+  font-size: 100px;
+
 }
 
 .github a:hover,
