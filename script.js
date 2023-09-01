@@ -7,7 +7,7 @@ async function loadParticles(options) {
   await tsParticles.load(options);
 }
 
-const totalDuration = 5 /* * 60 * 60*/,
+const totalDuration = 60 /* * 60 * 60*/,
   emittersLifeCount = totalDuration / 0.5;
 
 const configs = {
