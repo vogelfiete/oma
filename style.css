@@ -10,7 +10,7 @@
   border: 1px solid #000;
 }
 h1 {
-  position: relative;
+  text-align: center;
 }
 
 .github a:hover,
